@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1632481578 source:c:\users\siky\desktop\kuki\c++ practice\lesson 12\practice programs\program1\dtime.cpp
+	<iostream>
+	<cctype>
+	<cstdlib>
+	"dtime.h"
+
+1632481452 c:\users\siky\desktop\kuki\c++ practice\lesson 12\practice programs\program1\dtime.h
+	<iostream>
+
+1632481559 source:c:\users\siky\desktop\kuki\c++ practice\lesson 12\practice programs\program1\program.cpp
+	<iostream>
+	"dtime.h"
+
